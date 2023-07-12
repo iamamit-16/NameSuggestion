@@ -2,7 +2,7 @@
   "name": "namesuggestion",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/iamamit-16/NameSuggestion",
+  "homepage": "https://iamamit-16.github.io/NameSuggestion",
   "dependencies": {
     "@rstacruz/startup-name-generator": "0.3.0",
     "@testing-library/jest-dom": "^5.16.5",
