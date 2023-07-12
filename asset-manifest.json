@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/iamamit-16/NameSuggestion/static/css/main.aeaffa33.css",
-    "main.js": "/iamamit-16/NameSuggestion/static/js/main.4a72cf3d.js",
-    "index.html": "/iamamit-16/NameSuggestion/index.html",
-    "main.aeaffa33.css.map": "/iamamit-16/NameSuggestion/static/css/main.aeaffa33.css.map",
-    "main.4a72cf3d.js.map": "/iamamit-16/NameSuggestion/static/js/main.4a72cf3d.js.map"
+    "main.css": "/NameSuggestion/static/css/main.aeaffa33.css",
+    "main.js": "/NameSuggestion/static/js/main.4a72cf3d.js",
+    "index.html": "/NameSuggestion/index.html",
+    "main.aeaffa33.css.map": "/NameSuggestion/static/css/main.aeaffa33.css.map",
+    "main.4a72cf3d.js.map": "/NameSuggestion/static/js/main.4a72cf3d.js.map"
   },
   "entrypoints": [
     "static/css/main.aeaffa33.css",
